@@ -40,7 +40,7 @@
 1. Clone Repo
 
 ```
-git clone https://github.com/im-ankitjais/SLDP.git
+git clone https://github.com/Animatedguess/signvison.git
 ```
 
 2. Install Dependencies
